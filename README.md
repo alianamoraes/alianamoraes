@@ -34,7 +34,7 @@ Atualmente, estou me aprofundando em **JavaScript**, **HTML**, **CSS** e **Pytho
 
 - 🤖 [agilizaAI](https://github.com/gabpereiraa/agilizaAI): Contribuição em projeto voltado para hospitais e clínicas, com o objetivo de otimizar o fluxo de triagem. Ele permite que o paciente realize o pré-cadastro em um totem, antes de ser atendido, e que a equipe médica gerencie os atendimentos por meio de um painel inteligente de filas, priorizando casos urgentes e preferenciais.
 
-- 🎮 [Jogo da Velha](https://alianamoraes.github.io/JogodaVelha/):Um Jogo da Velha interativo com modo PvP e um oponente de IA, criado com HTML, CSS e JavaScript puro.
+- 🎮 [Jogo da Velha](https://alianamoraes.github.io/JogodaVelha/): Um Jogo da Velha interativo com modo PvP e um oponente de IA, criado com HTML, CSS e JavaScript puro.
 
 ---
 
