@@ -1,6 +1,6 @@
 ## Olá, sou Aliana Moraes. 👋
 
-Sou estudante de **Ciência da Computação** (3º semestre), com foco em **desenvolvimento front-end**. Sou apaixonada pela era digital e tenho um interesse genuíno pela interseção entre tecnologia, biologia e **ciência**.
+Sou estudante de **Ciência da Computação** (4º semestre), com foco em **desenvolvimento front-end**. Sou apaixonada pela era digital e tenho um interesse genuíno pela interseção entre tecnologia, biologia e **ciência**.
 Acredito no poder da informação acessível e como interfaces bem projetadas podem transformar a forma como interagimos com o conhecimento. Tenho um olhar atento para usabilidade, acessibilidade e estética, guiada por uma mentalidade curiosa e investigativa — reflexo do meu entusiasmo pela **pesquisa científica**.
 Atualmente, estou me aprofundando em **JavaScript**, **HTML**, **CSS** e **Python**, buscando aplicar esses conhecimentos tanto em projetos acadêmicos quanto em iniciativas colaborativas.
 
