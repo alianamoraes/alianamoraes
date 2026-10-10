@@ -1,20 +1,22 @@
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.tenor.com/9SDB_gbIBpsAAAAM/type-keyboard.gif"  />
+<div align="center">
+  <img height="180" src="https://media.tenor.com/9SDB_gbIBpsAAAAM/type-keyboard.gif" alt="Coding Cat" />
 </div>
 
-# 💫 About Me:
-Hi, how u doin? My name is Aliana and I'm a 6th-semester Computer Science, passionate about bridging the gap between front-end development and scientific research. I have a keen eye for usability and accessibility, and I'm currently focused on applying my skills to solve real-world problems and contribute to academic innovation. 
+# 💫 About Me
 
-📍 Location: Brazil
+Hi there! I'm **Aliana**, a **Computer Science undergraduate** (currently in my 6th semester) who loves bridging the gap between cutting-edge front-end development, intuitive UI/UX design, and scientific innovation. 
 
-💻 Focus: Front-end Development & UI/UX Design.
+With a strong analytical background and a keen eye for usability, responsiveness, and accessibility, I focus on transforming complex data and academic research into seamless, high-performance web applications.
 
-🔎 Interests: Scientific Research, Academic Articles, and Innovation.
+---
 
-🌱 Background: Former Biological Sciences student.
+### 📊 Quick Overview
 
-💬 Languages: Portuguese (Native), English (Intermediate), learning Spanish and Italian.
+- 📍 **Location:** Brazil  
+- 💻 **Core Focus:** Front-end Engineering & UI/UX Product Design  
+- 🔎 **Interests:** Scientific Research, Academic Literature, & Tech Innovation  
+- 🌱 **Academic Background:** Former Biological Sciences student turned Tech Enthusiast  
+- 💬 **Languages:** Portuguese (Native), English (Intermediate), Spanish & Italian (Learning)  
 
 
 ## 🌐 Socials:
